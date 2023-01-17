@@ -16,6 +16,3 @@ This project is build with React and TypeScript.
 ##### There is Pagination introduced.
 ##### The Badge, Button Component and Pagination components are there.
 ##### You can download the whole table in .csv format.
-
-
-
