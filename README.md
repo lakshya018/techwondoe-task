@@ -23,4 +23,6 @@ This project is build with React and TypeScript.A brief description of what this
 
 ## Demo
 
-[Uploading screen-recorder-tue-jan-17-2023-12-16-22.webm…]()
+https://user-images.githubusercontent.com/69206138/212833990-4a414ae8-e83d-499e-9a3f-308ba59579fd.mp4
+
+
