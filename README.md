@@ -6,6 +6,7 @@ This project is build with React and TypeScript.A brief description of what this
 ## About the App
 
 - This app is completely created in React and TypeScript.
+- The website is hosted on Netlify and its URL is https://techwondoe-task.netlify.app/.
 - For styling purposes Tailwind CSS and BootStrap both are used.
 - The API server used for fetching the users is https://mockapi.io/.
 - For confirmation of updated user, deleted user and added user, react-toastify library is used to showcase the notification.
