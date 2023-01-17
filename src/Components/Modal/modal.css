@@ -1,0 +1,36 @@
+.wrapper{
+    z-index: 1;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.432);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.modal-dialog{
+    width: 500px;
+    height: 450px;
+    padding: 20px;
+    background-color: white;
+    position: relative;
+    animation: fadeInDown 0.8s;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 1px rgba(0,0,0,0.5);
+}
+
+@keyframes fadeInDown {
+    0% {
+       opacity: 0;
+       transform: translateY(-150px);
+    }
+    100% {
+       opacity: 1;
+       transform: translateY(0);
+    }
+ }
